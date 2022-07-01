@@ -1,0 +1,67 @@
+.label {
+    -fx-font-size: 11px;
+    -fx-font-family: "Century Gothic";
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFFFFF;
+    
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#FFFFFF, #ec1c24);
+	-fx-text-fill: #000000;
+}
+#circle-text {
+   -fx-font-size: 30px;
+   -fx-font-family: "Century Gothic";
+   -fx-fill: #FFFFFF;
+  
+}
+
+#cButton {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+#clearCircle {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 ); 
+}
+#circleBack {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+#circleNext {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+#circleBack2 {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+#circleInvalid {
+   -fx-font-size: 10px;
+   -fx-font-family: "Century Gothic";
+   -fx-fill: #fd483f;
+   -fx-font-weight: bold;
+}
+
+#circleInvalid2 {
+   -fx-font-size: 10px;
+   -fx-font-family: "Century Gothic";
+}
+
+#circleInvalid3 {
+   -fx-font-size: 10px;
+   -fx-font-family: "Century Gothic";
+}

@@ -1,0 +1,67 @@
+.label {
+    -fx-font-size: 11px;
+    -fx-font-family: "Century Gothic";
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFFFFF;
+    
+}
+.button:hover {
+    -fx-background-color: linear-gradient(#FFFFFF, #fff238);
+	-fx-text-fill: #000000;
+}
+
+#triangle-text {
+   -fx-font-size: 30px;
+   -fx-font-family: "Century Gothic";
+   -fx-fill: #FFFFFF;
+}
+
+#tButton {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 ); 
+}
+#clearTriangle {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 ); 
+}
+#triangleBack {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 ); 
+}
+
+#triangleNext {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+#triangleBack2 {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+#triangleInvalid {
+   -fx-font-size: 10px;
+   -fx-font-family: "Century Gothic";
+   -fx-fill: #fd483f;
+   -fx-font-weight: bold;
+}
+#triangleInvalid2 {
+   -fx-font-size: 10px;
+   -fx-font-family: "Century Gothic";
+   -fx-fill: #fd483f;
+   -fx-font-weight: bold;
+}
+#triangleInvalid3 {
+   -fx-font-size: 10px;
+   -fx-font-family: "Century Gothic";
+}

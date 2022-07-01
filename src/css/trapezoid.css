@@ -1,0 +1,71 @@
+.label {
+    -fx-font-size: 11px;
+    -fx-font-family: "Century Gothic";
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFFFFF;
+    
+}
+.button:hover {
+    -fx-background-color: linear-gradient(#FFFFFF, #ff7f38);
+	-fx-text-fill: #000000;
+}
+
+#trapezoid-text {
+   -fx-font-size: 30px;
+   -fx-font-family: "Century Gothic";
+   -fx-fill: #FFFFFF;
+}
+
+#tzButton {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 ); 
+}
+#clearTrapezoid {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 ); 
+}
+#trapezoidBack {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 ); 
+}
+
+#trapezoidNext {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+#trapezoidBack2 {
+   -fx-font-size: 14px;
+   -fx-font-family: "Garamond";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+#trapezoidInvalid {
+   -fx-font-size: 10px;
+   -fx-font-family: "Century Gothic";
+   -fx-fill: #fd483f;
+   -fx-font-weight: bold;
+}
+
+#trapezoidInvalid2 {
+   -fx-font-size: 10px;
+   -fx-font-family: "Century Gothic";
+   -fx-fill: #fd483f;
+   -fx-font-weight: bold;
+}
+
+#trapezoidInvalid3 {
+   -fx-font-size: 10px;
+   -fx-font-family: "Century Gothic";
+   -fx-fill: #fd483f;
+   -fx-font-weight: bold;
+}

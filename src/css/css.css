@@ -1,0 +1,32 @@
+
+.root {
+	 -fx-background-color: #000000;
+}
+
+.label {
+    -fx-font-size: 13px;
+    -fx-font-family: "Century Gothic";
+    -fx-text-fill: #FFFFFF;
+    
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-font-size: 32px;
+}
+
+.button:hover {
+    -fx-background-color: transparent;
+    -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+#choose-text {
+   -fx-font-size: 30px;
+   -fx-font-family: "Century Gothic";
+   -fx-fill: #FFFFFF;
+   
+}
+
+
+
+
